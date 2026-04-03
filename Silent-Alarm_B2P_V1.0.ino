@@ -20,7 +20,7 @@ String lastAlertLog = "המערכת מוכנה. ממתין לסריקה...";
 const char* orefApi = "https://www.oref.org.il/WarningMessages/alert/alerts.json";
 
 // קישור ללוגו (תחליף בקישור הישיר שלך כשתעלה אותו)
-const char* logoUrl = "https://i.postimg.cc/635mKdgD/Gemini-Generated-Image-gqpbavgqpbavgqpb.png"; 
+const char* logoUrl = "https://raw.githubusercontent.com/build-2-play/Silent-Alarm/refs/heads/main/Silent-Alarm_Logo.png"; 
 
 unsigned long alertStartTime = 0;
 unsigned long preAlertStartTime = 0;
